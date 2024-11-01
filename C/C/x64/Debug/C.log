@@ -1,0 +1,7 @@
+﻿  C.c
+C:\Users\furka\source\repos\C\C\C.c(223,17): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\C\C\C.c(227,18): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\C\C\C.c(230,18): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\C\C\C.c(233,18): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\C\C\C.c(238,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  C.vcxproj -> C:\Users\furka\source\repos\C\x64\Debug\C.exe
